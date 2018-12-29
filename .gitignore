@@ -1,3 +1,6 @@
 .idea/
-Qevaluator.py
+Qtester.py
 lectures_and_misc/
+.idea
+out
+gen
